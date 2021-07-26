@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        style="@style/edit_text_actv1"
+        android:id="@+id/edit_text_actv1"
+        android:layout_marginHorizontal="40dp"
+        android:hint="@string/text"/>
+
+    <Button
+        style="@style/btn_actv1"
+        android:id="@+id/btn_actv1"
+        app:cornerRadius="9dp"
+        android:text="@string/send" />
+
+
+
+
+</LinearLayout>

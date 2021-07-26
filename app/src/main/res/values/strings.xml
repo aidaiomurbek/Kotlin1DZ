@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstLessonKotlin1</string>
+    <string name="loaded_avatar">loaded_avatar</string>
+    <string name="Hello_world">Hello World!</string>
+    <string name="send">send</string>
+    <string name="text">Text</string>
+    <string name="text2">text2</string>
+</resources>
